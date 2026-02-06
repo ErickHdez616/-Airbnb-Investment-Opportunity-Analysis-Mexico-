@@ -1,4 +1,4 @@
-# 🏡 Airbnb Investment Opportunity Analysis (Mexico)
+# 🏡 Airbnb Investment Opportunity Analysis (Mexico City)
 Python | SQL | Tableau
 <p align="justify">
 This project demonstrates my ability as a Data Analyst to evaluate real-world investment opportunities using large-scale marketplace data.</p>
